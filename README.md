@@ -24,13 +24,13 @@ This is a program that trains set of clusters to reconstruct faces from the LFW 
 
 ### First face with PC1
 
-![](https://github.com/is386/eigenfaces/blob/main/images/reconstruction1.png?raw=true)
+![](https://github.com/is386/eigenfaces/blob/main/images/reconstruct1.png?raw=true)
 
 ### First face with 95% accuracy
 
 - `Number of Components: 189`
 
-![](https://github.com/is386/eigenfaces/blob/main/images/reconstruction2.png?raw=true)
+![](https://github.com/is386/eigenfaces/blob/main/images/reconstruct2.png?raw=true)
 
 ### Cluster Centers
 
